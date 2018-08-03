@@ -23,8 +23,3 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
-# React_video_search
-# react_video_search
-# react_video_search
-# React_video_search
-# React_video_search
